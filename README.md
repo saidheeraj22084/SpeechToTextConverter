@@ -9,17 +9,19 @@ A Python project for converting speech to text using the SpeechRecognition libra
 - SpeechRecognition library (install using `pip install SpeechRecognition`)
 
 ### Installation
--Clone the repository:
- git clone https://github.com/saidheeraj22084/SpeechToTextConverter
+Clone the repository:
+ `git clone https://github.com/saidheeraj22084/SpeechToTextConverter`
 
- cd SpeechToTextConverter
+ `cd SpeechToTextConverter`
 
- pip install SpeechRecognition
+ `pip install SpeechRecognition`
 
 ## Usage
 ### Running the Example Script
-- To transcribe audio from a file:
-  python audio_to_text.py path/to/your/audio/file.wav
+To transcribe audio from a file:
+python import.py path/to/your/audio/file.wav
+
+#`import.py` is the python file name and `path/to/your/audio/file.wav` is the audio path file(Must be saved in .wav format)
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
